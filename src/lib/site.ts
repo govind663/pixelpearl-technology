@@ -5,13 +5,13 @@ export const COMPANY = {
   capabilities: "Technology • Digital • AI • Cloud • Security • Media • Publishing",
   website: "https://pixelpearltechnologies.com",
   phones: [
-    { label: "+91 9820809883", href: "tel:+919820809883" },
-    { label: "+91 9833944458", href: "tel:+919833944458" },
+    { label: "+91 9820209883", href: "tel:+919820809883" },
+    { label: "+91 9004763926", href: "tel:+919004763926" },
   ],
-  primaryPhoneHref: "tel:+919820809883",
-  secondaryPhoneHref: "tel:+919833944458",
-  email: "info@pixelpearltechnologies.com",
-  emailHref: "mailto:info@pixelpearltechnologies.com",
+  primaryPhoneHref: "tel:+919820209883",
+  secondaryPhoneHref: "tel:+919004763926",
+  email: "abhishekjha@pixelpearltechnologies.com",
+  emailHref: "mailto:abhishekjha@pixelpearltechnologies.com",
   addressLines: [
     "Nav Durga Niwas, Plot No. 473, Sector 4,",
     "Ghansoli, Navi Mumbai – 400701,",
@@ -20,14 +20,14 @@ export const COMPANY = {
   fullAddress:
     "Nav Durga Niwas, Plot No. 473, Sector 4, Ghansoli, Navi Mumbai – 400701, Maharashtra, India",
   locality: "Ghansoli, Navi Mumbai",
-  whatsappNumber: "919820809883",
+  whatsappNumber: "919820209883",
   whatsappMessage:
-    "Hello Pixelpearl Technologies, I would like to discuss a business requirement.",
+  "Hello Pixelpearl Technologies, I would like to discuss a business requirement and explore the right technology or digital solution for my business. Please get in touch with me.",
   // Centralized social configuration — never invent URLs; empty = hidden
   socials: {
     linkedin: "",
-    facebook: "",
-    instagram: "",
+    facebook: "https://www.facebook.com/pixelpearlau",
+    instagram: "https://www.instagram.com/pixelpearltechnologies",
     youtube: "",
     x: "",
   } as Record<string, string>,

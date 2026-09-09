@@ -12,7 +12,7 @@ export default function Contact() {
     <main id="main">
       <Seo
         title="Contact Pixelpearl Technologies | Call, WhatsApp & Enquire — Navi Mumbai"
-        description="Contact Pixelpearl Technologies in Ghansoli, Navi Mumbai. Call +91 9820809883, WhatsApp us or send an enquiry about web, software, AI, cloud, security, marketing, media and publishing."
+        description="Contact Pixelpearl Technologies in Ghansoli, Navi Mumbai. Call +91 9820209883, WhatsApp us or send an enquiry about web, software, AI, cloud, security, marketing, media and publishing."
         path="/contact"
         jsonLd={breadcrumbJsonLd([{ name: "Home", path: "/" }, { name: "Contact", path: "/contact" }])}
       />
