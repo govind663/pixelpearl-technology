@@ -27,7 +27,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 pt-14 pb-8">
         <div className="grid gap-10 md:grid-cols-2 lg:grid-cols-[1.3fr_0.8fr_0.9fr_1fr_1fr]">
           <div>
-            <Logo light compact={false} />
+            <Logo compact={false} />
             <p className="mt-5 text-[14.5px] leading-relaxed text-slate-300/90 max-w-[320px]">
               Pixelpearl Technologies is a Navi Mumbai based technology, digital, AI, cloud, cybersecurity, media and publishing solutions company — helping businesses build, automate and grow.
             </p>
